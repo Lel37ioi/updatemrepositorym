@@ -1,5 +1,6 @@
 {
   "limiteMinMB": 135,
   "limiteMaxMB": 300,
-  "toleranciaMB": 10
+  "toleranciaMB": 10,
+  "active": false
 }
